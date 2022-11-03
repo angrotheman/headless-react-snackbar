@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@antoniogross/headless-react-snackbar",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Headless Snackbar Package for React",
   "main": "build/index.js",
   "files": [
